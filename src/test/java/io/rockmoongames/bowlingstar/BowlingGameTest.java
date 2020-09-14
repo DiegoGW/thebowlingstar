@@ -8,4 +8,9 @@ public class BowlingGameTest {
     public void diegoTestOne() {
 
     }
+
+    @Test
+    public void diegoTestTwo() {
+
+    }
 }
