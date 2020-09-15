@@ -6,4 +6,10 @@ public class BowlingGame2Test {
     public void testerTestOne() {
 
     }
+
+    @Test
+    public void testerTestEight() {
+
+    }
+
 }
