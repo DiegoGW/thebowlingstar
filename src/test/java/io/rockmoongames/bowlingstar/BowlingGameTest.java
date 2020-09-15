@@ -15,6 +15,7 @@ public class BowlingGameTest {
     }
 
     @Test
+<<<<<<< HEAD
     public void diegoTestFive() {
 
     }
@@ -26,6 +27,9 @@ public class BowlingGameTest {
 
     @Test
     public void diegoTestSeven() {
+=======
+    public void testerTestThree() {
+>>>>>>> e6650f0e9fb04cc6a483caffa5e6e696dc7fb567
 
     }
 }
