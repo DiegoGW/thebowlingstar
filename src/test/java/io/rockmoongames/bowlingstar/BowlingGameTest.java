@@ -13,4 +13,19 @@ public class BowlingGameTest {
     public void diegoTestTwo() {
 
     }
+
+    @Test
+    public void diegoTestFive() {
+
+    }
+
+    @Test
+    public void diegoTestSix() {
+
+    }
+
+    @Test
+    public void diegoTestSeven() {
+
+    }
 }
